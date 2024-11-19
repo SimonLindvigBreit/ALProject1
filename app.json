@@ -1,0 +1,45 @@
+{
+  "id": "aabbb1ab-9778-4d69-8303-50abe1075f90",
+  "name": "ALProject1",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "502cd592-6338-445a-8f65-3b55240d0b34",
+      "name": "ECIT API BC2BC Base",
+      "publisher": "ECIT Consulting A/S",
+      "version": "22.0.0.1"
+      }, 
+      {
+        "id": "10cb69d9-bc8a-4d27-970a-9e110e9db2a5",
+        "name": "_Exclude_APIV2_",
+        "publisher": "Microsoft",
+        "version": "24.0.0.1"
+      }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 83500,
+      "to": 83550
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
